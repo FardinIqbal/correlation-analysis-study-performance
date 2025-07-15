@@ -1,5 +1,7 @@
 # Statistical Data Analysis and Modeling in Python
 
+[Open in Google Colab](https://colab.research.google.com/drive/100nDb_WzkXCYroCQtpEtzF_13Nl6cr95?usp=sharing)
+
 This project applies core statistical methods using Python to explore real-world datasets and scenarios. It includes correlation analysis, experimental design, and probability modeling, implemented in a clear, reproducible format using Jupyter Notebook and standard scientific libraries.
 
 ## Project Scope
